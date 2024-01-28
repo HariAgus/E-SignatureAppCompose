@@ -9,5 +9,5 @@ this is an application to create a signature by text or drawing using kotlin and
 - Create a signature with text
 - Create a signature with draw
 
-You can also find my article on medium :
+You can also read my article on medium :
 https://medium.com/me/stats/post/cf2c50f491f2
